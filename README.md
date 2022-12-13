@@ -1,5 +1,5 @@
 # 73. CRADLE 
 
-![](./assets/73_CRADLE.PNG)
+![](./assets/73_CRADLE_1.png)
 
 
