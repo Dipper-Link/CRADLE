@@ -1,5 +1,6 @@
 # 73. CRADLE 
-![](./assets/202212092228_SD.mp4)
+
+<video src="./assets/202212092228_SD.mp4" width=180/>
 
 ![](./assets/73_CRADLE.PNG)
 
