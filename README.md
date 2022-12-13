@@ -1,7 +1,7 @@
-## CRADLE
+# 73. CRADLE
 
-### 1. 什么是 CRADLE
+## 1. 什么是 CRADLE
 
-### 2. 投票地址
+![](./assets/73_CRADLE.PNG)
 
 
