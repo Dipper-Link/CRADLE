@@ -1,6 +1,4 @@
-# 73. CRADLE
-
-## 1. 什么是 CRADLE
+# 73. CRADLE 
 
 ![](./assets/73_CRADLE.PNG)
 
